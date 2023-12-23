@@ -1,0 +1,67 @@
+
+`	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+`	java:S112z"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+a	java:S112¸"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+a	java:S112É"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+a	java:S112Ø"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+J
+java:S3740d"/Provide the parametrized type for this generic.(ÑÖ—ïûÿÿÿÿ
+F
+java:S3740ö"/Provide the parametrized type for this generic.(ðýñŒ
+0
+java:S1220""Move this file to a named package.
+I
+java:S1199’"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+j	java:S116ñ"TRename this field "ShowGoods" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†˜¯Â
+j	java:S116ò"TRename this field "shop_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ä´
+s	java:S116ó"]Rename this field "exchange_shop_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ‰Å²
+q	java:S116õ"[Rename this field "goods_particular" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æªîá
+s	java:S116ú"XRename this field "SaleCondition" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß’Ñ£ÿÿÿÿÿ
+i	java:S116û"SRename this field "BuyGoods" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿‚„Ø
+q	java:S116ü"VRename this field "GoodsNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð­Ûµÿÿÿÿÿ
+n	java:S116ý"XRename this field "the_best_sale" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ý† 
+k
+java:S1845û"TRename field "BuyGoods" to prevent any misunderstanding/clash with field "buyGoods".(¿‚„Ø
+o
+java:S1450ñ"XRemove the "ShowGoods" field and declare it as a local variable in the relevant methods.(†˜¯Â
+i
+java:S1450ô"SRemove the "list" field and declare it as a local variable in the relevant methods.(Ð½›
+o
+java:S1450÷"SRemove the "sell" field and declare it as a local variable in the relevant methods.(‹Ø£üÿÿÿÿ
+B
+java:S1948"'Make "mysql" transient or serializable.(Ë‰ÇØþÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó°‰Šüÿÿÿÿ
+h	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ“”Üüÿÿÿÿ
+h	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÕ†®ÿÿÿÿÿ
+C
+java:S1172)"(Remove this unused method parameter "e".(áÕ†®ÿÿÿÿÿ
+H
+java:S1135*"2Complete the task associated to this TODO comment.(¿‰€ÿ
+c	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Å‚¸
+c	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…À›Ü
+>
+java:S11726"(Remove this unused method parameter "e".(…À›Ü
+H
+java:S11357"2Complete the task associated to this TODO comment.(¿‰€ÿ
+>
+java:S1172B"(Remove this unused method parameter "e".(Òíô³
+H
+java:S1135C"2Complete the task associated to this TODO comment.(¿‰€ÿ
+„
+java:S1130K"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(”£íÈ
+>
+java:S1172K"(Remove this unused method parameter "e".(”£íÈ
+H
+java:S1135L"2Complete the task associated to this TODO comment.(¿‰€ÿ
+h	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¶õµùÿÿÿÿ
+C
+java:S1172S"(Remove this unused method parameter "e".(‹¶õµùÿÿÿÿ
+H
+java:S1135T"2Complete the task associated to this TODO comment.(¿‰€ÿ
+h	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©™¤ñüÿÿÿÿ
+‰
+java:S1130X"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(©™¤ñüÿÿÿÿ
+C
+java:S1172X"(Remove this unused method parameter "e".(©™¤ñüÿÿÿÿ
+H
+java:S1135Y"2Complete the task associated to this TODO comment.(¿‰€ÿ

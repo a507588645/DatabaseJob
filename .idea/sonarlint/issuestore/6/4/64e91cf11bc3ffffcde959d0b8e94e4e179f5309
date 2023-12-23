@@ -1,0 +1,54 @@
+
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+k	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÛ¤Ûúÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+H
+java:S1199g"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+r	java:S116"XRename this field "Administrator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¹’‚şÿÿÿÿ
+v	java:S116"aRename this field "Administrator_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ”º…
+m	java:S116¢"RRename this field "Welcome" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏŞ¸êıÿÿÿÿ
+m	java:S116¥"RRename this field "user_in" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÙŒûÿÿÿÿ
+q	java:S116©"VRename this field "password_in" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µàŞ üÿÿÿÿ
+n
+java:S1450¤"WRemove the "password" field and declare it as a local variable in the relevant methods.(óôáş
+s
+java:S1450§"WRemove the "register" field and declare it as a local variable in the relevant methods.(ûáöıÿÿÿÿ
+j
+java:S1450¦"SRemove the "sign" field and declare it as a local variable in the relevant methods.(Õè°ú
+o
+java:S1450£"SRemove the "user" field and declare it as a local variable in the relevant methods.( ±ìÄşÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ô€‹
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆšÖşÿÿÿÿ
+h	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†…ç±ÿÿÿÿÿ
+C
+java:S1172$"(Remove this unused method parameter "e".(†…ç±ÿÿÿÿÿ
+H
+java:S1135%"2Complete the task associated to this TODO comment.(¿‰€ÿ
+J
+java:S1874&"/Remove this use of "getText"; it is deprecated.(ü‡²½üÿÿÿÿ
+E
+java:S1874("/Remove this use of "getText"; it is deprecated.(²î¦Ü
+O
+java:S1117+"9Rename "sign" which hides the field declared at line 166.(ÜËÑ“
+c	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûí¾
+h
+java:S37766"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ûí¾
+>
+java:S11726"(Remove this unused method parameter "e".(Ûí¾
+H
+java:S11357"2Complete the task associated to this TODO comment.(¿‰€ÿ
+J
+java:S18748"/Remove this use of "getText"; it is deprecated.(Ù±Ô¸ıÿÿÿÿ
+T
+java:S1117:"9Rename "sign" which hides the field declared at line 166.(¡’è»şÿÿÿÿ
+J
+java:S1874>"/Remove this use of "getText"; it is deprecated.(¦Š¨ûÿÿÿÿ
+J
+java:S1874?"/Remove this use of "getText"; it is deprecated.(›¸µöüÿÿÿÿ
+T
+java:S1117A"9Rename "sign" which hides the field declared at line 166.(ƒ–¡²ıÿÿÿÿ
+O
+java:S1117M"9Rename "sign" which hides the field declared at line 166.(ôœ×›
+T
+java:S1117T"9Rename "sign" which hides the field declared at line 166.(ÖÛç®ıÿÿÿÿ
